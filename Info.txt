@@ -1,0 +1,22 @@
+Q3O0GGHCDTU1C5XKKM
+QELLG2S7BJ7XSWGD5P
+
+https://github.com/gopal1409
+
+https://www.microsoftazurepass.com/
+
+https://portal.azure.com/
+
+30Nov:
+Id CommandLine
+  -- -----------
+   1 git pull
+   2 terraform init
+   3 ls
+   4 terraform validate
+   5 terraform plan
+   6 terraform apply
+   7 terraform destroy
+  12 terraform apply
+  13 terraform import azurerm_resource_group.demoresourcegrp /subscriptions/fe853d5f-516d-4de5-82c4-508658ae8b60/resourceGroups/demoresource-eastus
+  14 terraform apply
